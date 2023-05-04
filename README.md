@@ -5,4 +5,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel00261&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel00261&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Estou motivado a compartilhar meus códigos e projetos para colaborar com a comunidade de desenvolvedores. 
