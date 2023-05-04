@@ -5,7 +5,7 @@
 
 ##
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel00261&show_icons=true&theme=tokyonight)
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,github)](https://skillicons.dev)
 
