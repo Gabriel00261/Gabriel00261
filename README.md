@@ -5,6 +5,6 @@
 ##
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel00261&show_icons=true&theme=tokyonight)
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,git,github)]()a
 ##
 Estou motivado a compartilhar meus códigos e projetos para colaborar com a comunidade de desenvolvedores. 
