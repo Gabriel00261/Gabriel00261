@@ -4,3 +4,5 @@
 [![I](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabryel_strange/)
 
 ![Gabriel C.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel00261&show_icons=true&theme=tokyonight)
+
+## Estou motivado a compartilhar meus códigos e projetos para colaborar com a comunidade de desenvolvedores. 
