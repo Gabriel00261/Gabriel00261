@@ -16,4 +16,4 @@
 ##
 Estou motivado a compartilhar meus códigos e projetos para colaborar com a comunidade de desenvolvedores. 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=220480&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=220480&height=120&section=footer"/>a
