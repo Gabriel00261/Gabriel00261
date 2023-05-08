@@ -7,7 +7,7 @@
 
 ##
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel00261&show_icons=true&theme=tokyonight)
+![ Github Stats](https://github-readme-stats.vercel.app/api?username=Gabriel00261&show_icons=true&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel00261&layout=compact&hide_border=true&title_color=74a4f4&text_color=3ebbad&bg_color=0d1017" />
 
